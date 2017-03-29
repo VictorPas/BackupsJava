@@ -1,0 +1,45 @@
+﻿
+*****************************************************************
+*                                                               *
+*  PROGRAMA PARA HACER BACKUPS                                  *
+*                                                               *
+*  Creado por Víctor Pastor (con un poco de ayuda de internet)  *
+*                                                               *
+*****************************************************************
+
+
+Configuracion:
+--------------
+
+
+-Palabra antes de la fecha=Clase
+
+********************************************************************************************************
+*  Esta palabra ira al principio de la carpeta que se crearea por ejemplo: Backup 28.12.2016 00.56.40  *
+********************************************************************************************************
+
+-Numero de backups maximas=5
+
+********************************************************************************************************
+*  Este numero indica el numero maximo de backup que se generaran, es decir si pones 5, se generaran   *
+*  hasta 5 y la 6º borrara la carpeta con la fecha más antigua y generara otra con la fecha actual.    *
+********************************************************************************************************
+
+-Direccion donde quieres hacer los backup=/media/pokevik/AlmUbuntu/Backups/Backups clase horarios
+
+-Direccion de lo que hacer backup=/media/pokevik/VIC PEN/Curso 2016.17/BD
+
+
+********************************************************
+*                                                      *
+* Notas importantes:                                   *
+*                                                      *
+* Poner los datos requeridos al lado del igual,        *
+* sin espacio.                                         *
+*                                                      *
+* Cualquier error contactar con:                       *
+* pokevik21@gmail.com                                  *
+*                                                      *
+* Gracias por usar mi aplicacion :)                    *
+*                                                      *
+********************************************************
